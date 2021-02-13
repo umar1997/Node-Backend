@@ -1,0 +1,8 @@
+Connect Node with Firebase
+https://hackernoon.com/nodejs-setup-firebase-in-4-step-tutorial-example-easy-beginner-service-account-key-json-node-server-d61e803d6cc8
+https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&ab_channel=TraversyMediaTraversyMediaVerified
+https://www.youtube.com/watch?v=Mn-Zwrvx1bo&ab_channel=CodingShiksha
+https://retool.com/blog/crud-with-cloud-firestore-using-the-nodejs-sdk/
+https://firebase.google.com/docs/firestore/manage-data/add-data
+
+https://www.youtube.com/watch?v=Mn-Zwrvx1bo&t=921s&ab_channel=CodingShiksha

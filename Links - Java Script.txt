@@ -1,0 +1,6 @@
+Async Callback
+https://youtu.be/PoRJizFvM7s
+
+Higher Order Functions
+Filter, Map, Reduce, ForEach
+https://youtu.be/rRgD1yVwIvE

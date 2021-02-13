@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=TDe7DRYK8vU&ab_channel=TheFullStackJunkie
+https://github.com/LloydJanseVanRensburg/Authentication_Node_Sessions_Cookies
+
+
+https://www.youtube.com/watch?v=2so3hh8n-3w&ab_channel=AnsontheDeveloper
+https://www.youtube.com/watch?v=oYGhoHW7zqI&ab_channel=AnsontheDeveloper
+
+CSURF
+https://www.youtube.com/watch?v=N5U7KtxvVto&ab_channel=JimmyCoding
+https://github.com/jimmythecode/CSURF-Back-End-Tutorial/blob/postman/app.js
+
+
+Diff B/w Req.Query and Req.Params
+https://stackoverflow.com/questions/14417592/node-js-difference-between-req-query-and-req-params#:~:text=answer%20was%20accepted%E2%80%A6-,req.,You%20can%20also%20use%20req.

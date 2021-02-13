@@ -1,0 +1,7 @@
+Pagination
+https://www.youtube.com/watch?app=desktop&v=ZX3qt0UWifc
+https://medium.com/better-programming/build-a-paginated-api-using-node-js-express-and-mongodb-227ed5dc2b4b
+
+
+Inginite Scrolling on React
+https://www.youtube.com/watch?v=NZKUirTtxcg&feature=youtu.be

@@ -1,0 +1,60 @@
+Region -> Zone -> Kabina
+
+Users
+ 1. Name
+ 2. User ID
+ 3. Email Address
+ 4. Mobile Number
+ 5. Role - Admin, Super Admin, Client
+ 6. Region (Only in case of admin)
+ 7. Zone (Only in case of admin)
+ 8. Kabina (Only in case of admin)
+ 9. Tree IDs []
+
+Tree
+ 1. Tree Id
+ 2. User Id
+ 3. Last watered
+ 4. Nick Name
+ 5. GPS coordinates
+ 6. Images (more than 1)
+ 7. Region
+ 8. Zone
+ 9. Park
+10. Allocation date
+11. GeneratedByUser (bool)
+12. Kabina
+
+TreeRequest
+ 1. Number of Trees
+ 2. Region
+ 3. Zone
+ 4. Requested By (User Id)
+ 5. Address
+ 6. Request Id
+ 7. Kabina
+ 8. Status
+
+Parks
+ 1. Park Id
+ 2. Region
+ 3. Zone
+ 4. Kabina
+ 5. Gardener Name
+ 6. Gardener Mobile Number
+ 7. Extra Details
+
+Kabina:
+ 1. Kabina id
+ 2. Name
+ 3. Region
+ 4. Zone
+
+Region:
+ 1. Region id
+ 2. Name
+
+Zone:
+ 1. Zone id
+ 2. Name
+ 3. Region

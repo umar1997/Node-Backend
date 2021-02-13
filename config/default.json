@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://Umar:umar12345@mern-project.sfqc6.mongodb.net/devconnector_database?retryWrites=true&w=majority",
+	"jwtSecret": "secret-token"
+}

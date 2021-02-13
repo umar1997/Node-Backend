@@ -1,0 +1,18 @@
+######################################### Install and Init
+$ npm init
+entry point: server.js
+Author: Umar Salman
+License: MIT
+
+$ npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
+
+$ npm i -D nodemon concurrently
+
+######################################### Start
+Make a server.js file
+
+IN PACKAGE.JSON
+"scripts": {
+		"start": "node server",
+		"server": "nodemon server"
+	},
